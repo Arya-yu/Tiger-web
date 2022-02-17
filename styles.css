@@ -1,0 +1,111 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  font-size: 5rem;
+  color: #d9ae89;
+}
+
+p {
+  padding: 2.5rem;
+  line-height: 2;
+  font-size: 1.7rem;
+}
+
+#title {
+  background-color: #000;
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+.navbar {
+  padding: 1% 0;
+  font-size: 1.5rem;
+}
+
+.nav-title {
+  padding-left: 5rem;
+  font-size: 2rem;
+  color: #d9ae89;
+}
+
+.header-img {
+  width: 90%;
+}
+
+.header-text {
+  padding: 20% 0;
+  font-family: "Lobster", cursive;
+  font-size: 7rem;
+  color: #d9ae89;
+}
+
+.col-lg-6 {
+  padding: 0;
+}
+
+#intro {
+  background-color: #fdfce5;
+  text-align: center;
+  padding: 4.5rem;
+}
+
+.circular-bg {
+  background-color: #fdfce5;
+  opacity: 1;
+  background-image: repeating-radial-gradient(
+      circle at 0 0,
+      transparent 0,
+      #fdfce5 27px
+    ),
+    repeating-linear-gradient(#f9f3df55, #f9f3df);
+}
+
+#history {
+  text-align: center;
+  background-color: #000;
+  padding: 4.5rem;
+}
+
+.history-text {
+  color: #fdfce5;
+}
+
+#adopt {
+  text-align: center;
+  padding: 4.5rem;
+}
+
+.btn {
+  font-size: 1.5rem;
+}
+
+#about {
+  background-color: #000;
+  text-align: center;
+  padding: 4.5rem 0 0 0;
+}
+
+.social {
+  padding: 1rem;
+  font-size: 1.2rem;
+  color: #d9ae89;
+}
+
+.copyright {
+  color: #d9ae89;
+  font-size: 1.3rem;
+  margin-bottom: 0;
+}
